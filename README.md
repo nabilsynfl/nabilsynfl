@@ -10,5 +10,5 @@
 ![ES6](https://img.shields.io/badge/-ReactJs-000?logo=react&logoColor=white&style=plastic)
 ![Node JS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs)
 ![Docker](https://img.shields.io/badge/-Python-000?&logo=python)
-![Electron JS](https://img.shields.io/badge/-Electron JS-000?&logo=electrondotjs)
+![Electron JS](https://img.shields.io/badge/-Electron JS-000?&logo=electron)
 
