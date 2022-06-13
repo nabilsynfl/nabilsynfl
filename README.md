@@ -7,7 +7,7 @@
 
 ### Learning
 
-![React](https://img.shields.io/badge/-ReactJs-000?logo=react)
+![React](https://img.shields.io/badge/-ReactJs-000?logo=react&height=100)
 ![Node JS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
