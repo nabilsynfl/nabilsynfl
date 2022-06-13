@@ -12,10 +12,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
 
-<dev align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical)
+
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
-</dev>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=radical)
   
