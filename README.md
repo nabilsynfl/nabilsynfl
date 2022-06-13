@@ -7,8 +7,11 @@
 
 ### Learning
 
-![ES6](![image](https://user-images.githubusercontent.com/97229948/173275029-77f770de-0866-4bb7-be8b-7dc1cb2ed692.png))
+![ES6](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Node JS](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Docker](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Electron JS](https://img.shields.io/badge/-R-000?&logo=R)
 ![React JS](https://img.shields.io/badge/-R-000?&logo=R)
+
+
+<img src="https://www.immuniweb.com/images/owasp-top-10.jpg">
