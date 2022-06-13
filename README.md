@@ -34,7 +34,7 @@
     <img alt = "GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabil-Syahnaufal&theme=monokai">
 <br>
 
-
+<div align="center">
 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦 & 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘𝗦
 <!--
 <h2> 𝗛𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝚑𝚊𝚌𝚔𝚎𝚛𝚜/> 𝗮𝗻𝗱 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/dheeraj-2000/dheeraj-2000/blob/master/gifs/Hi.gif" width="30px"></h2> <br>
