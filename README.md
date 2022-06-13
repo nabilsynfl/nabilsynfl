@@ -31,7 +31,6 @@
   <br>
 <p align="center">
     <img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil-Syahnaufal">  
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical">
     <img alt = "GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabil-Syahnaufal&theme=monokai">
 <br>
 
