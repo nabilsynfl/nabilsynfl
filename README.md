@@ -14,9 +14,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical)
 
-
+<h2 align="center">Hot Repository</h2>
 <p align="center">
-  <h2>Top Repository</h2>
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=Hacktools&theme=radical"></a>
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=Hacktools&theme=radical"></a>
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=Hacktools&theme=radical"></a>
