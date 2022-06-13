@@ -21,7 +21,7 @@
   
 <div align="center">
  
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)
  
 </div>
 
