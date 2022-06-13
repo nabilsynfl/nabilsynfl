@@ -12,5 +12,5 @@
 ![Docker](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical)
 
