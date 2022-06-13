@@ -16,6 +16,8 @@
 
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
 
+<div align="center"
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=radical)
   
+/div>
 
