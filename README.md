@@ -7,9 +7,9 @@
 
 ### Learning
 
-![ES6](https://img.shields.io/badge/-ReactJs-000?logo=react&logoColor=white&style=plastic)
+![React](https://img.shields.io/badge/-ReactJs-000?logo=react)
 ![Node JS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs)
-![Docker](https://img.shields.io/badge/-Python-000?&logo=python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical)
