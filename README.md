@@ -17,5 +17,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Syahnaufal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+<a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Syahnaufal&theme=darkhub&margin-w=13&margin-h=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
