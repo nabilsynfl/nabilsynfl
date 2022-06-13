@@ -17,7 +17,7 @@
 
 <p align="center">
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
-<a href="https://github.com/Nabil-Syahnaufal/Cyber-indonesia"><img title="Cyber-indonesia" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=Cyber-indonesia&theme=radical"></a>
+<a href="https://github.com/Nabil-Syahnaufal/Cybersecurity-Indonesia"><img title="Cybersecurity-Indonesia" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=Cybersecurity-Indonesia&theme=radical"></a>
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
 <a href="https://github.com/Nabil-Syahnaufal/HackTools"><img title="HackTools" src="https://github-readme-stats.vercel.app/api/pin/?username=Nabil-Syahnaufal&repo=HackTools&theme=radical"></a>
 </p>
