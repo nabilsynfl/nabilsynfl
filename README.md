@@ -7,7 +7,7 @@
 
 ### Learning
 
-![ES6](https://img.shields.io/badge/-ReactJs-red?logo=react&logoColor=white&style=plastic)
+![ES6](https://img.shields.io/badge/-ReactJs-yellow?logo=react&logoColor=white&style=plastic)
 ![Node JS](https://img.shields.io/badge/-Ansible-000?&logo=Ansible)
 ![Docker](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Electron JS](https://img.shields.io/badge/-R-000?&logo=R)
