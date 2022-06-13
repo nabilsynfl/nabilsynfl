@@ -2,7 +2,7 @@
 
 - 👾 Javascript kids;
 - 👾 Python kids;
-- 👾 Cooming soon Back End Developer;
+- 👾 Script Kiddie;
 
 
 ### Learning
