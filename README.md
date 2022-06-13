@@ -12,6 +12,3 @@
 ![Docker](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Electron JS](https://img.shields.io/badge/-R-000?&logo=R)
 ![React JS](https://img.shields.io/badge/-R-000?&logo=R)
-
-
-<img src="https://www.immuniweb.com/images/owasp-top-10.jpg">
