@@ -13,7 +13,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=midnight-purple)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical&line_height=24&hide=stars&bg_color=0d1117" />
+</a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Syahnaufal&layout=compact&theme=radical&bg_color=0d1117" />
 </a> 
