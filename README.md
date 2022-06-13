@@ -15,7 +15,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical)
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Syahnaufal&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Syahnaufa&layout=compact&theme=midnight-purple&bg_color=0d1117" />
 </a> 
 <div align="center">
  
