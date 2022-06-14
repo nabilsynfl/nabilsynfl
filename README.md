@@ -21,7 +21,7 @@
 </a> 
 <div align="center">
  
-![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Syahnaufal&theme=tokyonight&margin-w=13&margin-h=15&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Syahnaufal&theme=radical&margin-w=13&margin-h=15&column=7)
  
 </div>
 
