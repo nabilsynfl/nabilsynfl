@@ -19,7 +19,7 @@
 </a> 
 <div align="center">
  
-![trophy](https://github-profile-trophy.vercel.app/?username=Nabil-Syahnaufal&theme=radical&margin-w=13&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=nabilsynfll&theme=radical&margin-w=13&margin-h=15)
  
 </div>
 
@@ -28,8 +28,8 @@
   <summary>CLICK HERE FOR MORE INFORMATION</summary>
   <br>
 <p align="center">
-    <img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Nabil-Syahnaufal">  
-    <img alt = "GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabil-Syahnaufal&theme=monokai">
+    <img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=nabilsynfl">  
+    <img alt = "GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nabilsynfl&theme=monokai">
 <br>
 
 <div align="center">
