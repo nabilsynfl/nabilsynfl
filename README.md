@@ -12,10 +12,10 @@
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=Nabil-Syahnaufal&show_icons=true&theme=radical" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=nabilsynfl&show_icons=true&theme=radical" />
 </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabil-Syahnaufal&layout=compact&theme=radical" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsynfl&layout=compact&theme=radical" />
 </a> 
 <div align="center">
  
