@@ -10,12 +10,6 @@
 ![Node JS](https://img.shields.io/badge/-NodeJS-000?&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Electron JS](https://img.shields.io/badge/-ElectronJS-000?&logo=electron)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilsynfl)](https://github.com/nabilsynfl/github-readme-stats)
- <a href="https://github.com/nabilsynfl/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabilsynfl&layout=compact&theme=radical" />
-</a> 
-<div align="center">
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=nabilsynfl&theme=radical&margin-w=13&margin-h=15)
  
